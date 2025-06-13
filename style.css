@@ -4,7 +4,7 @@
 }
 
 main {
-    background-image: url(/images/bgc.avif);
+    background-image: url(bgc.avif);
     background-size: cover;
     height: 35em;
     padding-bottom: 2em;
